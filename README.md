@@ -5,6 +5,3 @@ This is an android application project with two scenes:
     2)Waste Segregation Simulation Scene
     ![Screenshot 2025-06-05 193559](https://github.com/user-attachments/assets/9131d5af-6ba4-4c81-a847-723ae1293893)
     
-
-The reason for there is only very few git push because , i have worked on the project without git , later used after completion of the project and pushed into github for sharing the code repository as submission.
-Sorry for having less number of git push, in a single push , i uploaded all assests of my project.
